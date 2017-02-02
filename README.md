@@ -1,2 +1,1 @@
-# Web-Service-Olimpiadas
-Projeto PI 5
+# Web-Service-Olimpiadas-RIO-2016
